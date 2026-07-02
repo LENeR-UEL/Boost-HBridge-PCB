@@ -1,0 +1,17 @@
+# Altium generated folders
+History/
+Previews/
+Project Logs*/
+Project Outputs*/
+
+# Backup files
+*.bak
+*.log
+*.REP
+
+# Generated reports
+*.drc
+
+# Windows
+Thumbs.db
+Desktop.ini
